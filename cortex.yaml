@@ -1,0 +1,13 @@
+openapi: 3.0.1
+info:
+  title: Workshop for Varsity Tutors
+  description: Showcasing GitOps to Varsity Tutors!
+  x-cortex-tag: workshop-varsity-tutors
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: randy.herasme@cortex.io
+  x-cortex-git:
+    github:
+      repository: Cortex-Customer-Engineering/workshop-vt
+      alias: default
