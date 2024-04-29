@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: Workshop for Varsity Tutors
   description: Showcasing GitOps to Varsity Tutors!
-  x-cortex-tag: workshop-varsity-tutors-2
+  x-cortex-tag: 
   x-cortex-type: service
   x-cortex-owners:
   - type: EMAIL
